@@ -27,9 +27,38 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/vendor/ecicons.min.css",
+              "src/assets/css/plugins/animate.css",
+              "src/assets/css/plugins/swiper-bundle.min.css",
+              "src/assets/css/plugins/jquery-ui.min.css",
+              "src/assets/css/plugins/countdownTimer.css",
+              "src/assets/css/plugins/slick.min.css",
+              "src/assets/css/plugins/bootstrap.css",
+              "src/assets/css/demo1.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/backgrounds/bg-4.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/vendor/jquery-3.5.1.min.js",
+              "src/assets/js/vendor/jquery.notify.min.js",
+              "src/assets/js/vendor/jquery.bundle.notify.min.js",
+              "src/assets/js/vendor/popper.min.js",
+              "src/assets/js/vendor/bootstrap.min.js",
+              "src/assets/js/vendor/jquery-migrate-3.3.0.min.js",
+              "src/assets/js/vendor/modernizr-3.11.2.min.js",
+              "src/assets/js/plugins/swiper-bundle.min.js",
+              "src/assets/js/plugins/countdownTimer.min.js",
+              "src/assets/js/plugins/scrollup.js",
+              "src/assets/js/plugins/jquery.zoom.min.js",
+              "src/assets/js/plugins/slick.min.js",
+              "src/assets/js/plugins/infiniteslidev2.js",
+              "src/assets/js/vendor/jquery.magnific-popup.min.js",
+              "src/assets/js/plugins/jquery.sticky-sidebar.js",
+              "src/assets/js/vendor/google-translate.js",
+              "src/assets/js/vendor/index.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
